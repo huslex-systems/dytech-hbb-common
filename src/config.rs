@@ -115,7 +115,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["remote.huslex.com"];
-pub const RS_PUB_KEY: &str = "g8jVGNQAypYgJdlICW45IL1ViFosmiwzduE52ASzxpY=";
+pub const RS_PUB_KEY: &str = "TGdRszJDeoEnaKFPXmF8KU0Y2Jp6bs618Z0KvBT2cMk=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
